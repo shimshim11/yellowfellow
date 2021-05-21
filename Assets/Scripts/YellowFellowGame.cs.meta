@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ccdc9f7ae4b962548a41d6999bf74d09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - highScoreUI: {fileID: 8396145837551645818, guid: 68ecd492a9dd2424e8527827b124e393, type: 3}
+  - mainMenuUI: {instanceID: 0}
+  - gameUI: {instanceID: 0}
+  - winUI: {instanceID: 0}
+  - playerObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
